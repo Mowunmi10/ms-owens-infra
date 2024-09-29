@@ -1,1 +1,1 @@
-# Repo to managge machine provisioning
+# Repo to manage machine provisioning
